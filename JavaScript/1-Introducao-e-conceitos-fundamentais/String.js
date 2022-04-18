@@ -21,5 +21,5 @@ console.log(umaString.length);
 // Fatiar uma string
 console.log(umaString.slice(0 - 3));
 
-// Separa conteudo atraves de um ponto
+// Separa conteudo atraves de um ponto (e transforma em array)
 console.log(umaString.split(" "));
