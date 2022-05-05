@@ -1,10 +1,10 @@
-let umaString = "Um String";
+let umaString = "Uma String";
 
 // Indice de uma string
 console.log(umaString[0]);
 
 // Retornar indice de uma string
-console.log(umaString.charAt[U]);
+console.log(umaString.charAt(4));
 
 // Retornar um indice de inicio de uma string
 console.log(umaString.indexOf("String"));
@@ -19,7 +19,7 @@ console.log(umaString.replace("Uma", "Outra"));
 console.log(umaString.length);
 
 // Fatiar uma string
-console.log(umaString.slice(0 - 3));
+console.log(umaString.slice(0, 3));
 
 // Separa conteudo atraves de um ponto (e transforma em array)
 console.log(umaString.split(" "));

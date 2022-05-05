@@ -31,4 +31,4 @@ console.log(resultDiferenca);
 
 // Menor que
 var resultDiferencaRestrita = value1 !== value2;
-console.log(esultDiferencaRestrita);
+console.log(resultDiferencaRestrita);

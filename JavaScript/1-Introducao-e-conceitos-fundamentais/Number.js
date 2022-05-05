@@ -9,7 +9,7 @@ const num3 = 2.4567467
 // Arredondar para duas casas decimais
 console.log(num3.toFixed(2));
 
-// Retornar uma boolean
+// Retornar um boolean
 console.log(Number.isInteger(num3));
 
 // Transforma um numero real em um numero inteiro
